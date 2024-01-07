@@ -1,0 +1,7 @@
+# Ignore the contents of the dist folder
+dist/*
+
+# But don't ignore the dist folder itself
+!dist/
+
+node_modules
